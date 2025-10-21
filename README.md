@@ -7,6 +7,33 @@ A mobile app that connects users through faith-based meetups and groups using so
 - User authentication (Signup/Login)
 - Navigation between screens
 
+---
+
+## 🧰 Technologies Used
+
+This project was built using the following technologies:
+
+### Frontend
+- **React Native** – for building the cross-platform mobile app
+- **Expo** – to simplify app development and testing
+- **JavaScript (ES6+)** – main programming language
+
+### Backend *(if applicable)*
+- **Node.js** – backend runtime environment
+- **Express.js** – for building RESTful APIs
+- **MongoDB / Firebase** – database for storing user data
+
+### Tools & Services
+- **Git & GitHub** – version control and collaboration
+- **VS Code** – primary code editor
+- **npm / yarn** – package management
+- **Postman** – API testing (if using a backend)
+- **Figma** – for UI/UX design mockups
+- **Canva** - for logo and icon designs
+
+---
+
+
 ## 🧩 Installation
 
 Follow these steps to set up the project locally.
